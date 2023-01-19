@@ -1,0 +1,49 @@
+.btn {
+  position: relative;
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 236px;
+  height: 56px;
+  border-radius: 20px;
+  text-align: center;
+  font: 400 18px "Mukta Vaani", Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  color: rgb(255, 255, 255);
+  border: 0px;
+  transition: all 0.1s linear 0s;
+  cursor: pointer;
+  box-shadow: rgb(0 0 0 / 10%) 2px 2px 2px;
+  text-decoration: none;
+  padding: 0px 20px;
+  box-sizing: border-box;
+}
+
+.yellow-button {
+  background: linear-gradient(104deg, rgb(228, 161, 124) 0%, rgb(205, 133, 95) 100%);
+}
+
+.yellow-button:hover {
+  background: linear-gradient(104deg, rgb(204, 132, 94) 0%, rgb(204, 132, 94) 100%);
+  color: rgba(255, 255, 255, 0.71);
+}
+
+.green-button {
+  background: rgb(125, 196, 58);
+}
+
+.green-button:hover {
+  background: rgb(75, 123, 30);
+  color: rgba(255, 255, 255, 0.71);
+}
+
+.purple-button {
+  background: rgb(107, 94, 200);
+}
+
+.purple-button:hover {
+  opacity: 0.7;
+}
+
