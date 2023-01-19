@@ -6,7 +6,7 @@ export default function Login() {
     <StyledLogin>
       <LoginContent>
         <LoginActionWrapper>
-          <a className="login-logo" href="/"></a>
+          <a className="login-logo" href="/">_</a>
           <LoginTitle>Welcome</LoginTitle>
           <LoginSubTitle>Access Your Personal Account:</LoginSubTitle>
           <LoginButtonWrapper>

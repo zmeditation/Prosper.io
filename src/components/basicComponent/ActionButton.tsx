@@ -21,19 +21,15 @@ const ActionButton = ({
     <>
       {disable ? (
         <div
-          className={clsx('btn', className, {
-            ['disabled-yellow-button']: color === "yellow",
-            ['disabled-green-button']: color === "green",
-            ['disabled-purple-button']: color === "purple",
-          })}>
+          className={clsx('btn', className)}>
           {children}
         </div>
       ) : (
         <div
           className={clsx('btn', className, {
-            ['yellow-button']: color === "yellow",
-            ['green-button']: color === "green",
-            ['purple-button']: color === "purple",
+            'yellow-button': color === "yellow",
+            'green-button': color === "green",
+            'purple-button': color === "purple",
           })}
           onClick={onClick}>
           {children}

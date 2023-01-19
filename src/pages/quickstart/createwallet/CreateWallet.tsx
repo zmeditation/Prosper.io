@@ -22,10 +22,10 @@ export const CreateWallet = () => {
   }
 
   useEnhancedEffect(()=>{
-    if(selectedDevice=="Mobile Deivce"){
+    if(selectedDevice==="Mobile Deivce"){
       setVideoLink('https://www.youtube.com/embed/UWTeegx0CYQ');
       setVideoTitle('How To Setup Your MetaMask on Mobile');
-    }else if(selectedDevice=="Computer") {
+    }else if(selectedDevice==="Computer") {
       setVideoLink('https://www.youtube.com/embed/7nJSUYRqTW4');
       setVideoTitle('How To Setup Your MetaMask on Desktop');
     }
@@ -52,10 +52,10 @@ export const CreateWallet = () => {
           I am using a:
         </SelectDeviceDesc>
         <SelectDeviceButtonBox>
-          <DeviceButton text="Computer" onClick={selectDevice} selected={selectedDevice=="Computer"}/>
-          <DeviceButton text="Mobile Deivce" onClick={selectDevice} selected={selectedDevice=="Mobile Deivce"}/>
+          <DeviceButton text="Computer" onClick={selectDevice} selected={selectedDevice==="Computer"}/>
+          <DeviceButton text="Mobile Deivce" onClick={selectDevice} selected={selectedDevice==="Mobile Deivce"}/>
         </SelectDeviceButtonBox>
-        <MovieWrapper className={selectedDevice=="" ? "show-none" : ""}>
+        <MovieWrapper className={selectedDevice==="" ? "show-none" : ""}>
           <MovieBox>
             <iframe
               width="560"
