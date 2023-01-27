@@ -25,7 +25,7 @@ export const HeaderContent = styled(Box)`
     z-index: 99;
     display: block;
     width: 11.5rem;
-    height: 48px;
+    height: 7.6rem;
     text-indent: -9999rem;
   }
 

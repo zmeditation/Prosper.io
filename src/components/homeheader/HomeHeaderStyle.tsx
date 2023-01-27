@@ -16,8 +16,8 @@ export const StyledHeader = styled(Box)`
     position: relative;
     z-index: 99;
     display: block;
-    width: 11.5rem;
-    height: 5.6rem;
+    width: 14rem;
+    height: 9.6rem;
   }
   
   @media only screen and (max-width: 1440px){

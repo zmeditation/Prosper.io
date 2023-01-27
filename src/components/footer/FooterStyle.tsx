@@ -25,8 +25,8 @@ export const StyledFooter = styled(Box)`
     position: relative;
     z-index: 99;
     display: block;
-    width: 8.4rem;
-    height: 4.7rem;
+    width: 11rem;
+    height: 7.6rem;
   }
 
   @media only screen and (max-width: 1020px){

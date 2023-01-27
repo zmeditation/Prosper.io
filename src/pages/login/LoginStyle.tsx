@@ -44,8 +44,8 @@ export const LoginActionWrapper = styled(Box)`
     position: relative;
     z-index: 99;
     display: block;
-    width: 10rem;
-    height: 5.6rem;
+    width: 12rem;
+    height: 9.6rem;
     text-indent: -9999rem;
     background: url(/images/logo.png) 0% 0% / contain no-repeat;
     margin: 0px auto 10px;
