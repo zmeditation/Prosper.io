@@ -7,7 +7,7 @@ import { StyledStepper } from './StepperStyle';
 const steps = [
   '1. Create Wallet',
   '2. Add Funds',
-  '3. Join Prosper 365',
+  '3. Join Prosper 247',
 ];
 
 interface StartStepperProps {

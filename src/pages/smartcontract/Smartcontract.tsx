@@ -12,11 +12,11 @@ export default function Smartcontract() {
       <SmartcontractContainer>
         <SmartcontractContent>
           <SmartcontractTitleWrapper>
-            <p>PROSPER 365</p>Smart Contract
+            <p>PROSPER 247</p>Smart Contract
           </SmartcontractTitleWrapper>
           <SmartcontractContentBox>
             <SmartcontractLinkWrapper>
-              <p className="smartcontract-subtitle">Prosper 365</p>
+              <p className="smartcontract-subtitle">Prosper 247</p>
               <p className="smartcontract-description">The main system, handling the account creation, package purchases and commissions handling.</p>
               <SmartcontractLinkBox>
                 <SmartcontractLinkItem>
@@ -36,7 +36,7 @@ export default function Smartcontract() {
               </SmartcontractLinkBox>
             </SmartcontractLinkWrapper>
             <SmartcontractActionWrapper>
-              <p className="smartcontract-subtitle">Interested in Joining Prosper365?</p>
+              <p className="smartcontract-subtitle">Interested in Joining Prosper247?</p>
               <p className="smartcontract-description">To gain access to the website, you will need a MetaMask Wallet. Click the button to learn more.</p>
               <div className="action-button-wrapper">
                 <ActionButton color="green" onClick={()=>navigate('/quick-start/create-wallet')}>Quick Start!</ActionButton>

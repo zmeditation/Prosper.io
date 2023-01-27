@@ -10,7 +10,7 @@ export const Footer = (props: FooterProps) => {
     <StyledFooter className={props.className}>
       <img src="/images/logo.png" className="logo" alt="logo"></img>
       <FooterMidContent>
-        <span>Copyright © 2022 Prosper 365. All rights reserved.</span>
+        <span>Copyright © 2022 Prosper 247. All rights reserved.</span>
         <FooterTextLists>
           <div>
             <a href="/income-disclaimer">Income Disclaimer</a>

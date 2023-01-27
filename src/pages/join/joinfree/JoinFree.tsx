@@ -31,7 +31,7 @@ export const JoinFree = () => {
     <JoinContent>
       <JoinTitleWrapper>
         <p>
-          JOIN PROSPER 365
+          JOIN PROSPER 247
         </p>
         Free Affiliate
       </JoinTitleWrapper>

@@ -69,7 +69,7 @@ export const CreateWallet = () => {
           <MovieDesc>
             Once you have created your Metamask wallet and have added Smart Chain Network, proceed to purchasing BNB/BSC.
             <br/>
-            This is the currency that is used to purchase your package in Prosper 365.
+            This is the currency that is used to purchase your package in Prosper 247.
           </MovieDesc>
           <ActionContainer>
             <ActionButton color="green" onClick={handleNextStep}>Proceed to Next Step</ActionButton>

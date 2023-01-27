@@ -31,12 +31,12 @@ export const JoinMain = () => {
     <JoinContent>
       <JoinTitleWrapper>
         <p>
-          JOIN PROSPER 365
+          JOIN PROSPER 247
         </p>
         Learn, Earn, and Prosper
       </JoinTitleWrapper>
       <JoinDesc>
-        Everything with P365 is instant and immediate! As soon as you become a paid customer you will have immediate access to your educational products where you can begin learning today.
+        Everything with P247 is instant and immediate! As soon as you become a paid customer you will have immediate access to your educational products where you can begin learning today.
       </JoinDesc>
       <SpaceDiv8 />
       <JoinActionWrapper>

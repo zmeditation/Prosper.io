@@ -53,12 +53,12 @@ export const Products = () => {
         <HeaderContainer>
           <i className="fa-solid fa-arrow-trend-up"></i>
           <p>
-            PROSPER 365
+            PROSPER 247
           </p>
           Products
         </HeaderContainer>
         <ProductsDesc>
-          The foundation of P365 is built on providing exceptional educational products to help you better understand Blockchain technology from several different perspectives. Here is a list of just a few of the educational product categories you will have access to depending on which package you purchase.
+          The foundation of P247 is built on providing exceptional educational products to help you better understand Blockchain technology from several different perspectives. Here is a list of just a few of the educational product categories you will have access to depending on which package you purchase.
         </ProductsDesc>
         <ProductsListItems>
           {

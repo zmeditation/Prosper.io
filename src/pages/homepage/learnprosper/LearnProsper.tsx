@@ -12,7 +12,7 @@ export const Learnprosper = () => {
           Learn, Earn, and Prosper
         </HeaderContainer>
         <LearnTopDesc>
-          P365 was designed for anyone who is looking to increase their knowledge of blockchain technology, while also providing a lucrative affiliate program to earn and prosper. Everything with P365 is instant and immediate! As soon as you become a paid customer you will have immediate access to your educational products where you can begin learning today.
+          P247 was designed for anyone who is looking to increase their knowledge of blockchain technology, while also providing a lucrative affiliate program to earn and prosper. Everything with P247 is instant and immediate! As soon as you become a paid customer you will have immediate access to your educational products where you can begin learning today.
         </LearnTopDesc>
         <SpaceDiv10/>
         <EarningContent>
@@ -21,7 +21,7 @@ export const Learnprosper = () => {
               With a smart contract, there is no middleman holding your hard-earned money, and deciding when they want to pay it out... You get paid instantly and directly to your BNB wallet with zero human interaction.
             </EarningDesc>
             <EarningDesc>
-              No more worrying if you will get paid a commission or if the company will last. All of our technology is built on the Binance Smart Chain blockchain, and cannot be removed! So you can rest assured that you will continue to be able to Learn, Earn, and Prosper 365 days a year.
+              No more worrying if you will get paid a commission or if the company will last. All of our technology is built on the Binance Smart Chain blockchain, and cannot be removed! So you can rest assured that you will continue to be able to Learn, Earn, and Prosper 247 days a year.
             </EarningDesc>
             <SpaceDiv8/>
             <JoinTextDesc>

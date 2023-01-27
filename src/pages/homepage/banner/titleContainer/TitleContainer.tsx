@@ -14,7 +14,7 @@ export const TitleContainer = () => {
             <div className='title-text-large'>
               Welcome to
               <br/>
-              Prosper 365
+              Prosper 247
             </div>
             <p className='title-text-small'>
               Where Education, Affordability, and Opportunity Meet to Create the <span>Most Dynamic</span> Smart Contract On the Planet

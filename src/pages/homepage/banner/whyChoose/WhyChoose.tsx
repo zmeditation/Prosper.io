@@ -7,12 +7,12 @@ export const WhyChoose = () => {
     {
       icon: <i className="fa-solid fa-globe fa-blue-color"></i>,
       title: "TRANSPARENCY",
-      content: "Prosper 365 gives you full transparency to see all transactions on the smart contract by utilizing the Binance SmartChain."
+      content: "Prosper 247 gives you full transparency to see all transactions on the smart contract by utilizing the Binance SmartChain."
     },
     {
       icon: <i className="fa-solid fa-people-roof fa-blue-color"></i>,
       title: "LEGITIMATE PRODUCTS",
-      content: "Where most smart contracts are doing crowdfunding or some other version of a money game, P365 offers great products to help Learn while you Earn."
+      content: "Where most smart contracts are doing crowdfunding or some other version of a money game, P247 offers great products to help Learn while you Earn."
     },
     {
       icon: <i className="fa-solid fa-wheelchair fa-blue-color"></i>,
@@ -22,7 +22,7 @@ export const WhyChoose = () => {
     {
       icon: <i className="fa-brands fa-accusoft fa-green-color"></i>,
       title: "ANONYMITY",
-      content: "Prosper 365 gives you full transparency to see all transactions on the smart contract by utilizing the Binance SmartChain."
+      content: "Prosper 247 gives you full transparency to see all transactions on the smart contract by utilizing the Binance SmartChain."
     },
     {
       icon: <i className="fa-solid fa-microchip fa-green-color"></i>,
@@ -32,7 +32,7 @@ export const WhyChoose = () => {
     {
       icon: <i className="fa-solid fa-grip fa-green-color"></i>,
       title: "AFFORDABILITY",
-      content: "P365 was designed to be affordable to the entire world. Our first package starts at only $50 in BNB, which makes it possible for almost anyone to get started."
+      content: "P247 was designed to be affordable to the entire world. Our first package starts at only $50 in BNB, which makes it possible for almost anyone to get started."
     }
   ]
   const moreItems = [
@@ -55,7 +55,7 @@ export const WhyChoose = () => {
         <HeaderContainer>
           <i className="fa-solid fa-arrow-trend-up"></i>
           <p>WHY</p>
-          Choose Prosper 365?
+          Choose Prosper 247?
         </HeaderContainer>
         <WhyProsperItems>
           {

@@ -7,7 +7,7 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 export const AffiliateCompensation = () => {
   const handleDownload = () => {
-    window.open('https://prosper365.io/download/Compensation-Plan.pdf')
+    window.open('https://prosper247.io/download/Compensation-Plan.pdf')
   }
   return(
     <StyledAffiliateCompensation>
